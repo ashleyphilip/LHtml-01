@@ -1,0 +1,18 @@
+
+p{
+    color :black;
+    font-weight: normal;
+    font-size:12px;
+}
+
+#first-para {
+    color :blue;
+    font-weight: normal;
+    font-size:12px;
+}
+
+.first-para {
+    color :maroon;
+    font-weight: bold;
+    font-size:12px;
+}
